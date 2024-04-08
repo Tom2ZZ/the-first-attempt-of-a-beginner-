@@ -2,7 +2,7 @@
 **基础作业 (结营必做)**
 
 - 使用 `InternLM2-Chat-1.8B` 模型生成 300 字的小故事（需截图）
-![alt text](images/work1.png)
+![alt text](./images/work2.png)
 - 生成的小故事里也会有错误，
 ![alt text](images/work2.png)
 
